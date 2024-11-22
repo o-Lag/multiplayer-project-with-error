@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BootStrap.unity
+    guid: c1b76c51d8d69754b96a763b5b8179f8
+  - enabled: 1
+    path: Assets/Scenes/NetBootStrap.unity
+    guid: 81211dddba6f4fe499724402779154be
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e646360560da21b4ba036e1ffe20c755
+  - enabled: 1
+    path: Assets/Scenes/gameplayScene.unity
+    guid: 79bf5a302e225f94dbd15008ab6fa424
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 290a6e6411d135049940bec2237b8938, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 08e78402f46242841a5ff3deec32c0ca, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4c1640683c539c14080cfd43fbeffbda, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 9e9f2958d1b4b4642ace1d0c7770650b, type: 2}
